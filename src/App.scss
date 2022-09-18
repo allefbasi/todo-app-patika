@@ -1,0 +1,10 @@
+$primary: #7B1FA2;
+$secondary: #6c757d;
+$light: white;
+$dark: black;
+
+@import '~bootstrap/scss/bootstrap';
+
+.list-group-item {
+  padding: 2px;
+}
